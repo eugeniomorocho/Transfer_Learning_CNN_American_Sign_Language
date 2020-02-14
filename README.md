@@ -14,7 +14,7 @@ We used transfer learning using AlexNet and GoogLeNet as convolutional neural ne
 The full dataset size is 1.02GB, and can be downloaded with this link:
 http://ieee-dataport.org/2062
 
-If you want to recognize other classes, just add the images from different classes on labeled folders.
+If you want to recognize other classes, just add the images on labeled folders.
 
 If you use the code, please cite the following work:
 
