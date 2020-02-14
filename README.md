@@ -8,6 +8,8 @@ https://ieeexplore.ieee.org/document/8685536
 Researchgate link:
 https://www.researchgate.net/publication/332372103_Fine-tuning_a_pre-trained_Convolutional_Neural_Network_Model_to_translate_American_Sign_Language_in_Real-time
 
+The code is written for MATLAB.
+We used transfer learning using AlexNet and GoogLeNet as convolutional neural network (CNN) backbones.
 
 If you use the code, please cite the following work:
 
