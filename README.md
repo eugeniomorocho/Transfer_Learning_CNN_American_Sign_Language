@@ -11,7 +11,9 @@ https://www.researchgate.net/publication/332372103_Fine-tuning_a_pre-trained_Con
 The code is written for MATLAB.
 We used transfer learning using AlexNet and GoogLeNet as convolutional neural network (CNN) backbones.
 
-You can use the uploaded dataset or your own dataset. If you want to recognize other classes, just add images from different classes on labeled folders.
+The full dataset size is 1.02GB and can't be uploaded to Github.
+
+If you want to recognize other classes, just add the images from different classes on labeled folders.
 
 If you use the code, please cite the following work:
 
